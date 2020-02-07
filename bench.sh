@@ -2,9 +2,9 @@
 #
 # Description: Auto test download & I/O speed script
 #
-# Copyright (C) 2015 - 2019 Teddysun <i@teddysun.com>
+# 
 #
-# Thanks: LookBack <admin@dwhd.org>
+#
 #
 # URL: https://teddysun.com/444.html
 #
